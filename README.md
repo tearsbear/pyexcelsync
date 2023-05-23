@@ -1,13 +1,13 @@
 # PyExcelSync
 
 PyExcelSync is a tool to get data from another excel file and write the value to existing file.
-<br />
+<br /> <br />
 **Example** <br />
 Take a look at **SourceName**
-<br />
+<br /> <br />
 In this case, we need to get the value (**NO SURAT**) of each file and append on the column.
 <br />
-But the problem is... it will take a lot of times if we open one by one right?
+But the problem is... it will take a lot of times if we open one by one right? <br />
 Then imagine there is a lot of source file 😭
 ![This is a alt text.](https://i.imgur.com/ZbLXPfC.png "This is a sample image.")
 ![This is a alt text.](https://i.imgur.com/Ba6nbVV.png "This is a sample image.")
