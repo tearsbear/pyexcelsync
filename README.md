@@ -76,7 +76,7 @@ Make sure the header doesn't have a space!
 ```
 
 **The most important** <br />
-Make sure you put the source file in list **SourceName** at **file/** folder.
+Make sure you put the source file from list **SourceName** at **file/** folder.
 
 **Running the tools**
 In your terminal (virtualenv)
