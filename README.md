@@ -69,7 +69,7 @@ Make sure the extension file is .xlsx!
 - The default file header is **NoSurat**
 
 ```
-Or change this line to make ur own header name (main.py line 23)
+Change this line to make ur own header name (main.py line 23)
 dataSurat.append('NoSurat')
 
 Make sure the header doesn't have a space!
