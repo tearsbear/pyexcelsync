@@ -2,7 +2,7 @@
 
 PyExcelSync is a tool to get data from another excel file and write the value to existing file.
 <br />
-**Example**
+**Example** <br />
 Take a look at **SourceName**
 <br />
 In this case, we need to get the value (**NO SURAT**) of each file and append on the column.
@@ -11,7 +11,7 @@ But the problem is... it will take a lot of times if we open one by one right?
 Then imagine there is a lot of source file 😭
 ![This is a alt text.](https://i.imgur.com/ZbLXPfC.png "This is a sample image.")
 ![This is a alt text.](https://i.imgur.com/Ba6nbVV.png "This is a sample image.")
-That's why we need a tool to make our work easier!
+That's why we need a tool to make our work easier! <br />
 Using **PyExcelSync** will automatically read the values of each files,
 ![This is a alt text.](https://i.imgur.com/4iqqxVq.png "This is a sample image.")
 Then it will add the result to new column, next to **SourceName**
@@ -75,7 +75,7 @@ dataSurat.append('NoSurat')
 Make sure the header doesn't have a space!
 ```
 
-**The most important**
+**The most important** <br />
 Make sure you put the source file in list **SourceName** at **file/** folder.
 
 **Running the tools**
