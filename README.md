@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ```sh
 Just replace the file if you want to use ur own with the same name (works.xlsx)
 
-Or change this line to following ur own file (main.py line 19)
+Or change this line to ur own filename (main.py line 19)
 file_work = "works.xlsx"
 
 Make sure the extension file is .xlsx!
